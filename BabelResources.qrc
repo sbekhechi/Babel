@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/babelpic">
+        <file>rusflag.png</file>
+        <file>wrong.png</file>
+        <file>correct.jpeg</file>
+        <file>conjugation.gif</file>
+    </qresource>
+    <qresource prefix="/new/rustext">
+        <file>table.txt</file>
+        <file>verbs1.txt</file>
+        <file>table2.txt</file>
+        <file>arabicpic.jpg</file>
+        <file>colors.txt</file>
+        <file>goldsheet.png</file>
+    </qresource>
+    <qresource prefix="/JapaneseText">
+        <file>chpt1vocab.txt</file>
+        <file>japan.png</file>
+        <file>chpt5vocab.txt</file>
+        <file>chpt3vocab.txt</file>
+        <file>chpt4vocab.txt</file>
+        <file>chpt2vocab.txt</file>
+    </qresource>
+    <qresource prefix="/arabic">
+        <file>arabicpic.jpg</file>
+        <file>arabicstud.jpg</file>
+        <file>ArCh1Vocab.txt</file>
+        <file>quran.png</file>
+    </qresource>
+</RCC>

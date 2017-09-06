@@ -1,0 +1,103 @@
+4	1	あいだ	between
+4	2	あう	to meet; to see (a person)
+4	3	あなた	you
+4	4	ある	there is . . .
+4	5	アルバイト	part-time job
+4	6	いちじかん	one hour
+4	7	いぬ	dog
+4	8	いる	(a person) is in . . . ; stays at . . .
+4	9	うえ	on
+4	10	うしろ	back
+4	11	おてら	temple
+4	12	おみやげ	souvenir
+4	13	かいもの	shopping
+4	14	かう	to buy
+4	15	かく	to write
+4	16	～ぐらい	about (approximate measurement)
+4	17	クラス	class
+4	18	こうえん	park
+4	19	こども	child
+4	20	ごはん	rice; meal
+4	21	ごめんなさい	I’m sorry.
+4	22	～じかん	. . . hours
+4	23	した	under
+4	24	しゃしん	picture; photograph
+4	25	スーパー	supermarket
+4	26	だから	so; therefore
+4	27	たくさん	many; a lot
+4	28	ちかく	near; nearby
+4	29	てがみ	letter
+4	30	デパート	department store
+4	31	てら	temple
+4	32	～と	together with (a person)
+4	33	どうして	why
+4	34	とき	when . . . ; at the time of . . .
+4	35	となり	next
+4	36	とる	to take (a picture)
+4	37	なか	inside
+4	38	ねこ	cat
+4	39	バスてい	bus stop
+4	40	パン	bread
+4	41	ひだり	left
+4	42	ひと	person
+4	43	ひとりで	alone
+4	44	びょういん	hospital
+4	45	ホテル	hotel
+4	46	ほんや	bookstore
+4	47	まえ	front
+4	48	まち	town; city
+4	49	まつ	to wait
+4	50	みぎ	right
+4	51	みやげ	souvenir
+4	52	メール	e-mail
+4	53	レストラン	restaurant
+4	54	わかる	to understand
+4	55	かようび	Tuesday
+4	56	きのう	yesterday
+4	57	きんようび	Friday
+4	58	げつようび	Monday
+4	59	すいようび	Wednesday
+4	60	せんしゅう	last week
+4	61	もくようび	Thursday
+4	62	いちがつ	January
+4	63	いつか	the fifth day of a month
+4	64	おととし	the year before last
+4	65	くがつ	September
+4	66	ごがつ	May
+4	67	ここのか	the ninth day of a month
+4	68	さらいげつ	the month after next
+4	69	さらいしゅう	the week after next
+4	70	さらいねん	the year after next
+4	71	さんがつ	March
+4	72	しがつ	April
+4	73	しちがつ	July
+4	74	じゅういちがつ	November
+4	75	じゅういちにち	the eleventh day of a month
+4	76	じゅうがつ	October
+4	77	じゅうにがつ	December
+4	78	じゅうよっか	the fourteenth day of a month
+4	79	ついたち	the first day of a month
+4	80	とおか	the tenth day of a month
+4	81	なのか	the seventh day of a month
+4	82	にかげつまえ	two months ago
+4	83	にがつ	February
+4	84	にしゅうかんまえ	two weeks ago
+4	85	にじゅうよっか	the twenty-fourth day of a month
+4	86	はちがつ	August
+4	87	はつか	the twentieth day of a month
+4	88	ふつか	the second day of a month
+4	89	みっか	the third day of a month
+4	90	むいか	the sixth day of a month
+4	91	ようか	the eighth day of a month
+4	92	よっか	the fourth day of a month
+4	93	ろくがつ	June
+4	94	ことし	this year
+4	95	おととい	the day before yesterday
+4	96	こんしゅう	this week
+4	97	らいしゅう	next week
+4	98	らいねん	next year
+4	99	あさって	the day after tomorrow
+4	100	こんげつ	this month
+4	101	らいげつ	next month
+4	102	きょねん	last year
+4	103	せんげつ	last month

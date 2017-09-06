@@ -1,0 +1,56 @@
+2	1	あそこ	over there
+2	2	あの	that . . . (over there)
+2	3	あれ	that one (over there)
+2	4	いくら	how much
+2	5	いらっしゃいませ	Welcome (to our store).
+2	6	～えん	. . . yen
+2	7	おいしい	delicious
+2	8	おねがいします（～を)	. . . , please.
+2	9	かさ	umbrella
+2	10	きっさてん	cafe
+2	11	ぎんこう	bank
+2	12	ください（～を)	Please give me . . .
+2	13	くつ	shoes
+2	14	ここ	here
+2	15	この	this . . .
+2	16	これ	this one
+2	17	さいふ	wallet
+2	18	さかな	fish
+2	19	ジーンズ	jeans
+2	20	じてんしゃ	bicycle
+2	21	じゃあ	then . . . ; if that is the case, . . .
+2	22	しんぶん	newspaper
+2	23	そこ	there
+2	24	その	that . . .
+2	25	それ	that one
+2	26	たかい	expensive; high
+2	27	だれ	who
+2	28	T シャツ	T-shirt
+2	29	トイレ	toilet, restroom
+2	30	どうぞ	Please.; Here it is.
+2	31	どうも	Thank you.
+2	32	とけい	watch; clock
+2	33	どこ	where
+2	34	としょかん	library
+2	35	どの	which . . .
+2	36	どれ	which one
+2	37	とんかつ	pork cutlet
+2	38	にく	meat
+2	39	ノート	notebook
+2	40	ぼうし	hat; cap
+2	41	メニュー	menu
+2	42	やさい	vegetable
+2	43	ゆうびんきょく	post office
+2	44	えんぴつ	pencil
+2	45	かばん	bag
+2	46	じしょ	dictionary
+2	47	ペン	pen
+2	48	ほん	book
+2	49	けしゴム	eraser
+2	50	ドア	door
+2	51	カーテン	curtain
+2	52	いす	chair
+2	53	つくえ	desk
+2	54	まど	window
+2	55	こくばん	blackboard
+2	56	でんき	electricity

@@ -1,0 +1,56 @@
+3	1	アイスクリーム	ice cream
+3	2	あさ	morning
+3	3	あさごはん	breakfast
+3	4	あまり	not much
+3	5	いい	good
+3	6	いえ	home; house
+3	7	いく	to go
+3	8	いつ	when
+3	9	うち	home; house; my place
+3	10	えいが	movie
+3	11	おきる	to get up
+3	12	おさけ	sake; alcohol
+3	13	おちゃ	green tea
+3	14	おんがく	music
+3	15	かえる	to go back; to return
+3	16	がっこう	school
+3	17	きく	to listen; to hear
+3	18	くる	to come
+3	19	コーヒー	coffee
+3	20	～ごろ	at about . . .
+3	21	こんばん	tonight
+3	22	さけ	sake; alcohol
+3	23	ざっし	magazine
+3	24	しゅうまつ	weekend
+3	25	スポーツ	sports
+3	26	する	to do
+3	27	ぜんぜん	not at all
+3	28	そうですね	That’s right.; Let me see.
+3	29	たいてい	usually
+3	30	たべる	to eat
+3	31	ちゃ	green tea
+3	32	ちょっと	a little
+3	33	デート	date (romantic, not calendar)
+3	34	テニス	tennis
+3	35	でも	but
+3	36	テレビ	TV
+3	37	どうですか	How about . . . ?; How is . . . ?
+3	38	ときどき	sometimes
+3	39	ねる	to sleep; to go to sleep
+3	40	のむ	to drink
+3	41	はなす	to speak; to talk
+3	42	はやい	early
+3	43	ばんごはん	dinner
+3	44	ハンバーガー	hamburger
+3	45	ひるごはん	lunch
+3	46	べんきょうする	to study
+3	47	まいにち	every day
+3	48	まいばん	every night
+3	49	みず	water
+3	50	みる	to see; to look at; to watch
+3	51	よく	often; much
+3	52	よむ	to read
+3	53	あした	tomorrow
+3	54	きょう	today
+3	55	にちようび	Sunday
+3	56	どようび	Saturday

@@ -1,0 +1,62 @@
+5	1	あたらしい	new
+5	2	あつい	hot (thing)
+5	3	あつい	hot (weather)
+5	4	いそがしい	busy (people/days)
+5	5	いっしょに	together
+5	6	うみ	sea
+5	7	おおきい	large
+5	8	おもしろい	interesting; funny
+5	9	およぐ	to swim
+5	10	かっこいい	good-looking
+5	11	きく	to ask
+5	12	きっぷ	ticket
+5	13	きらい（な	disgusted with; to dislike
+5	14	きれい（な）	beautiful; clean
+5	15	げんき（な）	healthy; energetic
+5	16	こわい	frightening
+5	17	サーフィン	surfing
+5	18	さむい	cold (weather)
+5	19	しずか（な)	quiet
+5	20	すき（な）	fond of; to like
+5	21	すごく	extremely
+5	22	それから	and then
+5	23	だいきらい（な）	to hate
+5	24	だいじょうぶ	It’s okay.; Not to worry.; Everything is under control.
+5	25	だいすき（な）	very fond of; to love
+5	26	たのしい	fun
+5	27	たべもの	food
+5	28	たんじょうび	birthday
+5	29	ちいさい	small
+5	30	つまらない	boring
+5	31	でかける	to go out
+5	32	テスト	test
+5	33	てんき	weather
+5	34	とても	very
+5	35	どんな	what kind of . . .
+5	36	にぎやか（な）	lively
+5	37	のみもの	drink
+5	38	のる	to ride; to board
+5	39	バス	bus
+5	40	ひこうき	airplane
+5	41	ひま（な）	not busy; to have a lot of free time
+5	42	ふるい	old (thing)
+5	43	へや	room
+5	44	ぼく	I (used by men)
+5	45	～まで	to (a place); as far as (a place); till (a time)
+5	46	むずかしい	difficult
+5	47	やさしい	easy (problem); kind (person)
+5	48	やすい	inexpensive; cheap (thing)
+5	49	やすみ	holiday; day off; absence
+5	50	やる	to do; to perform
+5	51	りょこう	travel
+5	52	しゅくだい	homework
+5	53	～まい	[counter for flat objects]
+5	54	きって	postal stamps
+5	55	はがき	postcard
+5	56	かきとめ	registered mail
+5	57	こうくうびん	airmail
+5	58	こづつみ	parcel
+5	59	そくたつ	special delivery
+5	60	ふなびん	surface mail
+5	61	まどぐち	counter
+5	62	ほけん	insurance
